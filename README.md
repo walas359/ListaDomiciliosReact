@@ -1,2 +1,0 @@
-# ListaDomiciliosReact
-Created with CodeSandbox
