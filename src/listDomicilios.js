@@ -37,7 +37,7 @@ console.log(inputValue);
 (async () => {
   const response = await fetch(  
     
-    `https://ms-api-preprod.paquery.com/maps/address/autocomplete?partialAddress=${inputValue}`
+    `https://Url_endpoint=${inputValue}`
   );
   const countries = await response.json();
 
